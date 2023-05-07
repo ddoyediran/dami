@@ -14,6 +14,7 @@ I'm currently looking for new opportunities where I can contribute and make impa
 - LinkedIn: https://linkedin.com/in/damilare-oyediran-b0491b130
 - GitHub: https://github.com/ddoyediran
 - Email: ddoyediran@gmail.com
+- CV: https://docs.google.com/document/d/1dEsEIu1ksQkU70vq8tjXpicbRejYO8PI5m7oxw4JCes/edit?usp=sharing
 
 ## Logo
 - DO
