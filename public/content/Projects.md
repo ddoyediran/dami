@@ -12,6 +12,21 @@ Developed a ChangeLog App REST API that allows product managers to post updates 
   - Live Site [https://change-log-api-z93y.onrender.com/]
   - GitHub Repo [https://github.com/ddoyediran/change_log_app]
 
+## Citrone
+A learning managment system that makes it easy for educators to create learning experience that positively engage students. Work with frontend team and led a backend team of 3. Stack used for backend include Node.js, Express.js, MongoDB (Mongoose), JsonWebToken (Authentication and Authorization), Bcrypt (Password hashing), Cloudinary (file upload), Nodemailer.
+- ![Changelog](../assets/citrone.png)
+- Tags: WebDev
+- Badges:
+  - Node.js [blue]
+  - Expressjs [blue]
+  - MongoDB [blue]
+  - Mongoose [blue]
+  - JsonWebToken [blue]
+  - Bcrypt [blue]
+- Buttons:
+  - Live Site [#]
+  - GitHub Repo [https://github.com/ddoyediran/stutern_citrone_app/]
+
 ## Movies Rental Application
 A Movie Rental Application (REST API) where users can rent movies.
 - ![600x200](../assets/videorental.png)
