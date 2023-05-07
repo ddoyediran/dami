@@ -22,9 +22,10 @@
 ## Google Developer Student Clubs (Sweden)
 - *Team lead* | Jul'21 - Jun'22
 - ![logo512](../assets/gdsclogo.png)
-- Tags: Teaching
+- Tags: Work
 - Badges:
   - Work [blue]
+  - Teaching [blue]
 - List Items:
   - Selected as one of the 1500 Google Developer Student Club leads globally..
   - Organised over 25 events where participants acquired technical skills.
