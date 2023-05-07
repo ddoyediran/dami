@@ -7,7 +7,7 @@
 - Hardcore problem solver.
 
 ## About
-- Engineer by education, problem solver by heart. Loves football (playing and watching), teaching, learning new things. Passionate about tech, natural world and digital world.
+Engineer by education, problem solver by heart. Loves football (playing and watching), teaching, learning new things. Passionate about tech, natural world and digital world.
 
 ## Contact
 I'm currently looking for new opportunities where I can contribute and make impact.
