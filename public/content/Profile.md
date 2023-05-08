@@ -3,7 +3,7 @@
 
 ## Header
 - Hey, my name is Damilare Oyediran.
-- Software developer & Aspiring MLOps.
+- Software developer.
 - Hardcore problem solver.
 
 ## About
