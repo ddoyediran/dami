@@ -42,7 +42,7 @@ A Movie Rental Application (REST API) where users can rent movies.
   - GitHub Repo [https://github.com/ddoyediran/video-rental-app]
 
 ## File upload API App
-A backend REST API microservices that can be used to accept files (media, pdf, docs, .zpi) submission from user as an input.
+A backend REST API microservices that can be used to accept files (media, pdf, docs, zip) submission from user as an input.
 - ![600x200](../assets/file_upload.png)
 - Tags: WebDev
 - Badges:
