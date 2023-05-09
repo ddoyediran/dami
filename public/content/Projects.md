@@ -41,6 +41,21 @@ A Movie Rental Application (REST API) where users can rent movies.
   - Live Site [https://video-rental-app.onrender.com/]
   - GitHub Repo [https://github.com/ddoyediran/video-rental-app]
 
+## File upload API App
+A backend REST API microservices that can be used to accept files (media, pdf, docs, .zpi) submission from user as an input.
+- ![600x200](./assets/file_upload.png)
+- Tags: WebDev
+- Badges:
+  - Expressjs [blue]
+  - Nodejs [blue]
+  - Multer [blue]
+  - Cloudinary [blue]
+  - MongoDB [blue]
+  - Mongoose [blue]
+- Buttons:
+  - Live Site [#]
+  - GitHub Repo [https://github.com/ddoyediran/file_upload_db]
+
 ## Dinner planner web app
 Built a dinner planner web app integrating Spoonacular API where users can search dishes, see details of the dish and also get ingredient list for each dish using React js, Firebase with Model View Presenter pattern.
 - ![600x200](../assets/dinnerapp.png)
