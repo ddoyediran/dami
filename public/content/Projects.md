@@ -43,7 +43,7 @@ A Movie Rental Application (REST API) where users can rent movies.
 
 ## File upload API App
 A backend REST API microservices that can be used to accept files (media, pdf, docs, .zpi) submission from user as an input.
-- ![600x200](./assets/file_upload.png)
+- ![600x200](../assets/file_upload.png)
 - Tags: WebDev
 - Badges:
   - Expressjs [blue]
